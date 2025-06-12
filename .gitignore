@@ -1,0 +1,2 @@
+.env
+fine_tuned_quote_sbert/model.safetensors
