@@ -1,0 +1,11 @@
+text,output,timestamp
+I ordered SoundWave 300 but got EcoBreeze AC instead. My order number is #36824.,"'Issue Type: Wrong Item
+Urgency: High
+Entities: {
+  ""product"": [
+    ""SoundWave 300"",
+    ""EcoBreeze AC""
+  ],
+  ""dates"": null,
+  ""complaints"": null
+}",2025-06-08 00:53:58.516883
