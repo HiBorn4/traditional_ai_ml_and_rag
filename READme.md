@@ -207,8 +207,6 @@ A short screencast demonstrating:
 * Example RAG queries & evaluation
 * Interactive Streamlit application
 
-Please refer to [DEMO_LINK_PLACEHOLDER] for the video walkthrough.
-
 ---
 
 ## 📝 Notes & Best Practices
