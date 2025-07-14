@@ -85,7 +85,6 @@ Builds a classical‑ML pipeline that:
          - predicted_urgency_level: str
          - extracted_entities: dict
        """
-```
 
 6. **Gradio Interface (Optional)**
    * Interactive web UI: input raw text, view predictions
