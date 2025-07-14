@@ -1,4 +1,3 @@
-```markdown
 # Multi‑Project Repository: NLP Pipelines & RAG‑Powered Quote Retrieval
 
 This repository contains two end‑to‑end NLP projects:
